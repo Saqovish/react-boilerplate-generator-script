@@ -1,3 +1,3 @@
-# 👩🏻‍💻 Lazy me
+# React boilterplate generator script
 
-A nodejs script package used by the lazy to create files with React boilerplate
+A script for the lazy to generate react boilerplate code 

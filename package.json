@@ -1,16 +1,14 @@
 {
-  "name": "lazy-me",
+  "name": "react-boilterplate-generator-script",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Abdellah SAQ <k.abdellah.saq@gmail.com> (https://saqovish.io/)",
   "license": "ISC",
   "bin": {
-    "lazy-me": "./cli.js"
+    "breact": "./cli.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",

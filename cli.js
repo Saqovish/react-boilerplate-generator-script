@@ -8,7 +8,7 @@ const extractName = require('./utils/extractName');
 
 const cli = meow();
 
-// extract flags
+// extract data from cli
 const { flags, input } = cli;
 
 // load template based on flags
